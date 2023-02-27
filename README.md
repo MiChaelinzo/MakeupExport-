@@ -1,2 +1,2 @@
 # MakeupExport-
-The exported Makeup Template file from Lens Studio
+The exported Makeup Template object file from Lens Studio
